@@ -1,0 +1,99 @@
+body {
+	background: url(../img/background-car.jpg) center top no-repeat;
+
+}
+.logo {
+	max-width: 100px;
+	max-height: 100px;
+}
+th.empty-cart {
+	padding-top: 30px;
+	color: red;
+	font-weight: bold;
+}
+
+h3 {
+	margin-top: 0px !important;
+	color: #dac20aa3 !important;
+}
+h1.page-title {
+	margin-bottom: 20px;
+	color: white;
+	font-family: Tahoma;
+}
+.panel {
+	background-color: #ffffffb3 !important;
+}
+.panel-heading {
+	background: black !important;	
+	color: white;
+}
+div.product {
+	border-bottom: 1px solid #eee;
+	padding: 2px 0px 8px 0px;
+}
+
+div.product:last-child {
+	border-bottom: 0px;
+}
+
+div.product div.media-left a img{
+	max-width: 80px;
+}
+
+div.product div.media-body{
+	position: relative;
+}
+
+div.product div.media-body p{
+	padding-right: 80px;
+	max-width: 400px;
+	max-height: 50px;
+}
+
+div.product div.media-body a.price,
+div.product div.media-body span.price{
+	position: absolute;
+	bottom: 5px;
+	right: 0px;
+	padding: 5px 10px;
+	max-width: 120px;
+	background-color: #2029ff;
+	font-size: 12px;
+	color: #fff;
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+div.product div.media-body input {
+	position: absolute;
+	top: 5px;
+	right: 0px;
+	max-width: 52px;
+}
+
+#my-cart-body input {
+	max-width: 50px;
+}
+
+div.product div.media-body span.price{
+	background-color: #040404;
+}
+p.sold-out {
+	position: absolute;
+	padding-right: 0px !important;
+    top: 5px;
+    right: 0px;
+	color: red;
+	font-weight: bold;
+}
+div.product div.media-body a.price:hover{
+	text-decoration: none;
+	opacity: 1;
+}
+
+.total-price {
+	font-weight: bold;
+	color:#FF0000;
+	font-size: 16px;
+}

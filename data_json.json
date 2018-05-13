@@ -1,0 +1,46 @@
+[{
+	"id": 100,
+	"_name": "Ferrari",
+	"_image": "1.png",
+	"_summary": "Ferrari Challenge Europe at Silverstone - Hurni, Mattsson, Nielsen and Froggatt shine in Race-2",
+	"_price": 18,
+	"_canBuy": true
+}, {
+	"id": 101,
+	"_name": "Bugatti",
+	"_image": "2.png",
+	"_summary": "The CHIRON is the most powerful, fastest and exclusive production super sports car in BUGATTI's brand history.",
+	"_price": 18,
+	"_canBuy": true
+}, {
+	"id": 102,
+	"_name": "Chevrolet",
+	"_image": "3.png",
+	"_summary": "Chevy. The only brand to earn J.D. Power Dependability awards for cars, trucks, and SUV’s.",
+	"_price": 18,
+	"_canBuy": true
+}, {
+	"id": 103,
+	"_name": "Audi",
+	"_image": "4.png",
+	"_summary": "Ferrari Challenge Europe at Silverstone - Hurni, Mattsson, Nielsen and Froggatt shine in Race-2",
+	"_price": 18,
+	"_canBuy": true
+}, {
+	"id": 104,
+	"_name": "Lamborghini",
+	"_image": "5.png",
+	"_summary": "Ferrari Challenge Europe at Silverstone - Hurni, Mattsson, Nielsen and Froggatt shine in Race-2",
+	"_price": 18,
+	"_canBuy": true
+}
+	
+]
+
+
+ "Ferrari", "1.png", , 500000
+		 "Bugatti", "2.png", , 420000));
+		"Chevrolet", "3.png", , 360000));
+		"Audi", "4.png", "Discover 2018 Audi sedans, SUVs & coupes. Visit AudiUSA.com and search our new inventory.", 120000));
+		"Lamborghini", "5.png", "Like real-life hurricanes, the Huracán family of supercars is awe-inspiring and extremely powerful.", 200000,false));
+,
